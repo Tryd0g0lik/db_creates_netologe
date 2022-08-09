@@ -1,0 +1,6 @@
+prodgect/
+*.drawio
+env37/
+venv/
+venv37/
+.$*
